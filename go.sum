@@ -1,2 +1,6 @@
+github.com/advanced-go/agency v0.0.0-20241114170425-28f02113fbc2 h1:jP5N1iC53ey+M/RPhbD9wPXrVpTCx1Q/wRIGIP8TpkM=
+github.com/advanced-go/agency v0.0.0-20241114170425-28f02113fbc2/go.mod h1:5h1pcVFVczpeyHxtmM+gKsUeGGTcJwZAKhPLeyFEiK8=
 github.com/advanced-go/common v0.0.0-20241107192729-529f35719a51 h1:uLyeIn/HDGevlBe/GMWOmmH0wchNgm1oIOndDBIboLY=
 github.com/advanced-go/common v0.0.0-20241107192729-529f35719a51/go.mod h1:ZO9q9c1GB9gQOeuWiAk0fT7pH8nfmNarGHi/Qu4LP/Q=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=

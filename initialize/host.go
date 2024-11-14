@@ -1,8 +1,8 @@
 package initialize
 
 import (
-	http2 "github.com/advanced-go/activity/http"
-	"github.com/advanced-go/activity/module"
+	http2 "github.com/advanced-go/agency/http"
+	"github.com/advanced-go/agency/module"
 	"github.com/advanced-go/common/access"
 	"github.com/advanced-go/common/core"
 	"github.com/advanced-go/common/host"
